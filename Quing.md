@@ -131,7 +131,11 @@ jetbrains mono variable is used exclusively for code, technical identifiers, and
   font-style: normal;
   font-display: swap;
 }
-
+*{
+font-feature-settings: "cv01" 1, "cv02" 1, "cv03" 1, "cv04" 1, "cv05" 1,
+                       "cv06" 1, "cv07" 1, "cv08" 1, "cv09" 1, "cv10" 1,
+                       "cv11" 1, "cv12" 1, "cv13" 1, "cv14" 1,
+                       "liga" 1, "calt" 1, "zero" 1;}
 ```
 ### hierarchy
 
