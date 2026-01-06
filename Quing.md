@@ -132,7 +132,7 @@ jetbrains mono variable is used exclusively for code, technical identifiers, and
   font-display: swap;
 }
 
-
+```
 ### hierarchy
 
 headings and headers are written in lowercase only, except for required brand names.
